@@ -23,7 +23,7 @@ const env = {
     synchronize: true,
   },
   jwt: {
-    api_secret_key: "Orema",
+    api_secret_key: "Token",
   },
 };
 

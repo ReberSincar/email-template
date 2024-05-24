@@ -45,7 +45,7 @@ brokerGateway.createService({
         let token = auth.slice(7);
 
         // Check the token
-        if (token == "Orema") {
+        if (token == "Token") {
           return Promise.resolve();
         } else {
           // Invalid token

@@ -1,5 +1,5 @@
 {
-  "name": "orema-rest-api",
+  "name": "aws-ses-rest-api-moleculer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
